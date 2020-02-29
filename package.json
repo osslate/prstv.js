@@ -1,0 +1,22 @@
+{
+  "name": "prstv",
+  "version": "0.0.1",
+  "description": "Implementation of Irish-flavoured preferential voting",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigkell/prstv.js.git"
+  },
+  "author": "Fionn Kelleher <fionn@sigkell.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sigkell/prstv.js/issues"
+  },
+  "homepage": "https://github.com/sigkell/prstv.js#readme"
+}
